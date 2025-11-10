@@ -1,10 +1,17 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=180&section=header" width="100%">
-</p>
+<div align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=0D1117&text=false" height="55" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=0D1117&text=false" height="55" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
+</div>
+
+<h1 align="center" style="color:#00FFFF;">Balaji Besta</h1>
+<h3 align="center" style="color:#CCCCCC;">DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Balaji+Besta;DevOps+Engineer;Kubernetes+•+Docker+•+Jenkins+•+Terraform+•+AWS;Automate+•+Integrate+•+Innovate" alt="Balaji Besta DevOps Banner" />
+  <b><i>Automate • Integrate • Innovate</i></b>
 </p>
 
 
