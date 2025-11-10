@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Balaji%20Besta%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Balaji Besta DevOps Banner"/>
+</p>
+
 # 👋 Hi there, I'm **Balaji Besta**  
 🚀 **DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker**
 
@@ -9,8 +14,8 @@
 - 💻 Passionate about **DevOps, Cloud, and Automation**  
 - 🧩 Practicing **real-world DevOps setups** (Jenkins, SonarQube, Nexus, Kubernetes)  
 - ☁️ Exploring **AWS, Docker, Terraform, Ansible**, and **GitHub Actions**  
-- ⚙️ Love solving deployment issues & optimizing pipelines  
-- 🎯 Goal: Become a **Skilled DevOps / Platform Engineer** and contribute to open-source automation tools  
+- ⚙️ Focused on building reliable, secure, and scalable systems  
+- 🤝 Open to collaborating on automation and cloud projects  
 
 ---
 
@@ -41,8 +46,8 @@
 
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-besta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-besta&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats-github-readme.vercel.app/?user=balaji-besta&theme=tokyonight)  
 ![Balaji's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-besta&theme=tokyo-night)
-
 
 ---
 
@@ -56,7 +61,7 @@
 
 ### 📬 Connect With Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/balaji-besta-6one2/)  
-💻 [GitHub](https://github.com/balaji-besta)  
+💻 [GitHub](https://github.com/balaji-besta)
 
 ---
 
