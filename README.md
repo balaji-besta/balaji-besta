@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=250&section=header&text=👋%20Balaji%20Besta%20🚀&fontSize=45&fontColor=00BFFF&fontAlignY=35&desc=DevOps%20Engineer%20|%20Kubernetes%20•%20Docker%20•%20Jenkins%20•%20Terraform%20•%20AWS%20Cloud&descAlignY=60&descAlign=50" alt="Balaji Besta DevOps Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Balaji+Besta;DevOps+Engineer;Kubernetes+⚙️+Docker+🐳+Jenkins+🧩+Terraform+🌍+AWS+☁️;Automate+•+Integrate+•+Innovate" alt="Dynamic DevOps Banner"/>
 </p>
+
 
 
 # 👋 Hi there, I'm **Balaji Besta**  
