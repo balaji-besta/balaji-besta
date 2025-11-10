@@ -1,8 +1,32 @@
 <!-- Profile Banner -->
 
-<p align="center">
-  <img src="banner.png" alt="Balaji Besta Header" width="1200" height="auto" />
-</p>
+
+<div align="center" style="background-color:#0D1117; padding:40px; border-radius:15px;">
+  <!-- Tech Stack Logos -->
+  <div>
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=0D1117&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=0D1117&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
+  </div>
+
+  <!-- Name with Glow -->
+  <h1 style="color:#00FFFF; font-family:'Segoe UI', sans-serif; text-shadow:0 0 10px #00FFFF, 0 0 20px #00FFFF; margin-top:20px;">
+    Balaji Besta
+  </h1>
+
+  <!-- Subtitle -->
+  <h3 style="color:#CCCCCC; font-family:'Segoe UI', sans-serif; font-weight:normal;">
+    DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker
+  </h3>
+
+  <!-- Tagline -->
+  <p style="color:#00CED1; font-size:18px; font-family:'Consolas', monospace; text-shadow:0 0 8px #00CED1;">
+    <b><i>Automate • Integrate • Innovate</i></b>
+  </p>
+</div>
+
 
 
 
