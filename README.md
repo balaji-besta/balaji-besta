@@ -1,30 +1,20 @@
 <!-- Profile Banner -->
-<div align="center" style="background:linear-gradient(145deg, #030B1A, #081A2F); padding:45px; border-radius:20px; box-shadow:0 0 25px rgba(0,255,255,0.15);">
+<div align="center">
 
-  <!-- Tech Stack Logos -->
-  <div style="margin-bottom:15px;">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=081A2F&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=081A2F&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=081A2F&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=081A2F&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=081A2F&text=false" height="55" />
-  </div>
+<!-- Futuristic Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&text=Balaji%20Besta&fontColor=00FFFF&fontAlignY=35&fontSize=40&desc=DevOps%20Engineer%20%7C%20Cloud%20•%20CI%2FCD%20•%20Kubernetes%20•%20Terraform%20•%20Jenkins%20•%20Docker&descAlignY=60&descAlign=50&animation=fadeIn)
 
-  <!-- Name with Futuristic Glow -->
-  <h1 style="color:#00E6FF; font-family:'Orbitron', 'Segoe UI', sans-serif; text-shadow:0 0 12px #00FFFF, 0 0 24px #008BFF, 0 0 40px #00E6FF; letter-spacing:1px; margin-top:20px;">
-    Balaji Besta
-  </h1>
+<!-- Logos -->
+<img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=0D1117&text=false" height="55" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=0D1117&text=false" height="55" />
+<img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
 
-  <!-- Subtitle -->
-  <h3 style="color:#A8C7FA; font-family:'Segoe UI', sans-serif; font-weight:300; letter-spacing:0.5px;">
-    DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker
-  </h3>
+### *Automate • Integrate • Innovate*
 
-  <!-- Tagline -->
-  <p style="color:#00FFFF; font-size:18px; font-family:'Consolas', monospace; text-shadow:0 0 10px #00FFFF, 0 0 25px #008BFF;">
-    <b><i>Automate • Integrate • Innovate</i></b>
-  </p>
 </div>
+
 
 
 
