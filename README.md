@@ -1,7 +1,8 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Balaji%20Besta%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="Balaji Besta DevOps Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=250&section=header&text=👋%20Balaji%20Besta%20🚀&fontSize=45&fontColor=00BFFF&fontAlignY=35&desc=DevOps%20Engineer%20|%20Kubernetes%20•%20Docker%20•%20Jenkins%20•%20Terraform%20•%20AWS%20Cloud&descAlignY=60&descAlign=50" alt="Balaji Besta DevOps Banner" width="100%">
 </p>
+
 
 # 👋 Hi there, I'm **Balaji Besta**  
 🚀 **DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker**
@@ -45,8 +46,7 @@
 ### 📊 GitHub Analytics  
 
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-besta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-besta&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats-github-readme.vercel.app/?user=balaji-besta&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-besta&layout=compact&theme=tokyonight)    
 ![Balaji's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-besta&theme=tokyo-night)
 
 ---
