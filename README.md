@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 
 <p align="center">
-  <img src="banner.png" alt="Balaji Besta Header" width="100%" />
+  <img src="banner.png" alt="Balaji Besta Header" width="1200" height="auto" />
 </p>
 
 
