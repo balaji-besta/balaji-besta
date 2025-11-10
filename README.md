@@ -41,7 +41,7 @@
 
 ![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-besta&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-besta&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balaji-besta&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=balaji-besta&theme=tokyonight)
 
 ---
 
