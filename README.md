@@ -55,7 +55,7 @@
 ---
 
 ### 📬 Connect With Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/balaji-besta)  
+🌐 [LinkedIn](https://www.linkedin.com/in/balaji-besta-6one2/)  
 💻 [GitHub](https://github.com/balaji-besta)  
 
 ---
