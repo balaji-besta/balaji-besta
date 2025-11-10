@@ -1,26 +1,27 @@
 <!-- Profile Banner -->
-<div align="center" style="background-color:#0D1117; padding:40px; border-radius:15px;">
+<div align="center" style="background:linear-gradient(145deg, #030B1A, #081A2F); padding:45px; border-radius:20px; box-shadow:0 0 25px rgba(0,255,255,0.15);">
+
   <!-- Tech Stack Logos -->
-  <div>
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=0D1117&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=0D1117&text=false" height="55" />
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
+  <div style="margin-bottom:15px;">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=081A2F&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=081A2F&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=081A2F&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=081A2F&text=false" height="55" />
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=081A2F&text=false" height="55" />
   </div>
 
-  <!-- Name with Glow -->
-  <h1 style="color:#00FFFF; font-family:'Segoe UI', sans-serif; text-shadow:0 0 10px #00FFFF, 0 0 20px #00FFFF; margin-top:20px;">
+  <!-- Name with Futuristic Glow -->
+  <h1 style="color:#00E6FF; font-family:'Orbitron', 'Segoe UI', sans-serif; text-shadow:0 0 12px #00FFFF, 0 0 24px #008BFF, 0 0 40px #00E6FF; letter-spacing:1px; margin-top:20px;">
     Balaji Besta
   </h1>
 
   <!-- Subtitle -->
-  <h3 style="color:#CCCCCC; font-family:'Segoe UI', sans-serif; font-weight:normal;">
+  <h3 style="color:#A8C7FA; font-family:'Segoe UI', sans-serif; font-weight:300; letter-spacing:0.5px;">
     DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker
   </h3>
 
   <!-- Tagline -->
-  <p style="color:#00CED1; font-size:18px; font-family:'Consolas', monospace; text-shadow:0 0 8px #00CED1;">
+  <p style="color:#00FFFF; font-size:18px; font-family:'Consolas', monospace; text-shadow:0 0 10px #00FFFF, 0 0 25px #008BFF;">
     <b><i>Automate • Integrate • Innovate</i></b>
   </p>
 </div>
