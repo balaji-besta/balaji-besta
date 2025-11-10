@@ -1,9 +1,10 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=180&section=header" width="100%">
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Balaji+Besta;DevOps+Engineer;Kubernetes+⚙️+Docker+🐳+Jenkins+🧩+Terraform+🌍+AWS+☁️;Automate+•+Integrate+•+Innovate" alt="Dynamic DevOps Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Balaji+Besta;DevOps+Engineer;Kubernetes+•+Docker+•+Jenkins+•+Terraform+•+AWS;Automate+•+Integrate+•+Innovate" alt="Balaji Besta DevOps Banner" />
 </p>
 
 
