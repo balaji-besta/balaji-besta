@@ -1,20 +1,8 @@
 <!-- Profile Banner -->
-<div align="center">
 
-<!-- Futuristic Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&text=Balaji%20Besta&fontColor=00FFFF&fontAlignY=35&fontSize=40&desc=DevOps%20Engineer%20%7C%20Cloud%20•%20CI%2FCD%20•%20Kubernetes%20•%20Terraform%20•%20Jenkins%20•%20Docker&descAlignY=60&descAlign=50&animation=fadeIn)
-
-<!-- Logos -->
-<img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=jenkins&fill=0D1117&text=false" height="55" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=terraform&fill=0D1117&text=false" height="55" />
-<img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
-
-### *Automate • Integrate • Innovate*
-
-</div>
-
+<p align="center">
+  <img src="banner.png" alt="Balaji Besta Header" width="100%" />
+</p>
 
 
 
