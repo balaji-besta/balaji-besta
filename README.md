@@ -1,10 +1,4 @@
 <!-- Profile Banner -->
-<!-- 🔹 Futuristic Dark Banner Background -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00111f,100:002b45&text=Balaji%20Besta&fontColor=00BFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20|%20Kubernetes%20•%20Docker%20•%20Jenkins%20•%20Terraform%20•%20AWS%20Cloud&descAlignY=65&descAlign=50&descSize=20" alt="Balaji Besta DevOps Banner"/>
-</p>
-
-<!-- 🔹 DevOps Tool Icons (Centered) -->
 <div align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&fill=0D1117&text=false" height="55" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=0D1117&text=false" height="55" />
@@ -13,13 +7,13 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&fill=0D1117&text=false" height="55" />
 </div>
 
-<!-- 🔹 Tagline and Motto -->
-<h3 align="center" style="color:#00BFFF;">DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker</h3>
+<h1 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;">Balaji Besta</h1>
+<h3 align="center" style="color:#CCCCCC;">DevOps Engineer | Cloud • CI/CD • Kubernetes • Terraform • Jenkins • Docker</h3>
 
 <p align="center">
   <b><i>Automate • Integrate • Innovate</i></b>
 </p>
->
+
 
 
 
